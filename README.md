@@ -4,23 +4,23 @@ Clone the Git-Exercise repository and upload your copy to a repository under you
 
 📋 Assignment Instructions
 
-Copy the GitGif.* files into the Animation directory.
+a) Copy the GitGif.* files into the Animation directory.
 
-Copy one of the Quote.* files into the Picture directory. Choose a format that displays directly in a web browser.
+b) Copy one of the Quote.* files into the Picture directory. Choose a format that displays directly in a web browser.
 
-Update this README.md file:
+c) Update this README.md file:
 
-Section 1: Enter your name and email address.
+     Section 1: Enter your name and email address.
 
-Section 2: Embed the quote image from the Picture directory.
+     Section 2: Embed the quote image from the Picture directory.
 
-Section 3: Embed the GIF animation from the Animation directory.
+     Section 3: Embed the GIF animation from the Animation directory.
 
-Section 4: Type the quote as plain text.
+     Section 4: Type the quote as plain text.
 
-Commit your changes and submit your repository URL.
+     Commit your changes and submit your repository URL.
 
-Replace the example filenames and placeholders below with your actual information. Match the capitalization of directory and file names exactly.
+     Replace the example filenames and placeholders below with your actual information. Match the capitalization of directory and file names exactly.
 
 👤 1. Student Information
 
