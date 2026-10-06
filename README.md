@@ -28,9 +28,11 @@ Name: *** Your full name ***
 Email: *** Your email address *** 
 
 🖼️ 2. Picture
+
 *** Place Quote.* here *** 
 
 🎞️ 3. Animation
+
 *** Place GITGIF.* here *** 
 
 💬 4. Quote
